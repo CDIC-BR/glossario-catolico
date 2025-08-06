@@ -1,16 +1,16 @@
 ## Índice do Glossário
 
 - [Administrador Paroquial](#administrador-paroquial)
-- [Associações de Fiéis](#associacoes-de-fieis)
+- [Associações de Fiéis](#associa--es-de-fi-is)
 - [Abadia Territorial](#abadia-territorial)
-- [Administração Apostólica Pessoal](#administracao-apostolica-pessoal)
-- [Apocrisários](#apocrisarios)
+- [Administração Apostólica Pessoal](#administra--o-apost-lica-pessoal)
+- [Apocrisários](#apocris-rios)
 - [Arquidiocese](#arquidiocese)
 - [Arquieparquia](#arquieparquia)
 - [Assembleia Geral](#assembleia-geral)
-- [Basílica Instituição](#basilica-instituicao)
+- [Basílica Instituição](#bas-lica-institui--o)
 - [Bispo](#bispo)
-- [Basílica Paróquia](#basilica-paroquia)
+- [Basílica Paróquia](#bas-lica-par-quia)
 
 ---
 
