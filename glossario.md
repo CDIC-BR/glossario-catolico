@@ -1,16 +1,16 @@
 ## Índice do Glossário
 
 - [Administrador Paroquial](#administrador-paroquial)
-- [Associações de Fiéis](#associa--es-de-fi-is)
+- [Associacoes de Fieis](#associacoes-de-fieis)
 - [Abadia Territorial](#abadia-territorial)
-- [Administração Apostólica Pessoal](#administra--o-apost-lica-pessoal)
-- [Apocrisários](#apocris-rios)
+- [Administracao Apostolica Pessoal](#administracao-apostolica-pessoal)
+- [Apocrisarios](#apocrisarios)
 - [Arquidiocese](#arquidiocese)
 - [Arquieparquia](#arquieparquia)
 - [Assembleia Geral](#assembleia-geral)
-- [Basílica Instituição](#bas-lica-institui--o)
+- [Basilica Instituicao](#basilica-instituicao)
 - [Bispo](#bispo)
-- [Basílica Paróquia](#bas-lica-par-quia)
+- [Basilica Paroquia](#basilica-paroquia)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### Associações de Fiéis  
+### Associacoes de Fieis  
 **Classificação:** Entidade
 
 > § 1. Podem os fiéis, por meio de convênio privado, celebrado entre si, constituir associações para alcançarem os fins referidos no cân. 298, § 1, sem prejuízo do prescrito no cân. 301, § 1.  
@@ -37,7 +37,7 @@
 
 ---
 
-### Administração Apostólica Pessoal  
+### Administracao Apostolica Pessoal  
 **Classificação:** Tipo de Circunscrição Eclesiástica
 
 > É uma determinada porção do povo de Deus que, por razões especiais e particularmente graves, não é erigida pelo Romano Pontífice como diocese e cujo cuidado pastoral é confiado a um Administrador Apostólico, que a governa em nome do Sumo Pontífice.  
@@ -45,7 +45,7 @@
 
 ---
 
-### Apocrisários  
+### Apocrisarios  
 **Classificação:** Cargo histórico
 
 > Eram os Legados Pontifícios junto aos Imperadores do Oriente.  
@@ -74,7 +74,7 @@
 
 ---
 
-### Basílica Instituição  
+### Basilica Instituicao  
 **Classificação:** Tipo de Instituição
 
 > É o título dado pela Sé Apostólica, por meio da Congregação para o Culto Divino e a Disciplina dos Sacramentos, a uma igreja que possua importância histórica ou que possua grande afluxo de fiéis, como os santuários.  
@@ -89,8 +89,9 @@
 
 ---
 
-### Basílica Paróquia  
+### Basilica Paroquia  
 **Classificação:** Tipo de Paróquia
 
 > *(Definição pendente)*
+
 
