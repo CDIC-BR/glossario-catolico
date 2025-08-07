@@ -99,7 +99,15 @@
 - [Formação de clérigos](#formação-de-clérigos)
 - [Institutos Religiosos](#institutos-religiosos)
 - [Institutos Seculares](#institutos-seculares)
-
+- [Igreja Particular](#igreja-particular)
+- [Igreja Não-Paroquial](#igreja-não-paroquial)
+- [IGREJA DIOCESANA](#igreja-diocesana)
+- [Ipso Iure](#ipso-iure)
+- [Irmão professo](#irmão-professo)
+- [Instituições Eclesiásticas](#instituições-eclesiásticas)
+- [Institutos de Vida Consagrada (IVC)](#institutos-de-vida-consagrada-ivc)
+- [Liber Pontificalis](#liber-pontificalis)
+- [Laicato](#laicato)
 
 
 
@@ -1011,3 +1019,95 @@ CDC Cân. 710
 [https://cnisb.org.br/o-que-sao-os-institutos-seculares/](https://cnisb.org.br/o-que-sao-os-institutos-seculares/)  
 Constituição Apostólica *Provida Mater Ecclesia* – art. I – *Lex peculiaris Institutorum saecularium*
 
+---
+
+<a id="igreja-particular"></a>
+
+### Igreja Particular  
+**Tipo:** Entidade  
+
+“As Igrejas particulares, nas quais e das quais existe a una e única Igreja Católica, são primariamente as dioceses, às quais, se outra coisa não constar, são equiparadas a prelatura territorial, a abadia territorial, o vicariato apostólico e a prefeitura apostólica e ainda a administração apostólica estavelmente erecta.” (cân. 368)
+
+---
+
+<a id="igreja-não-paroquial"></a>
+
+### Igreja Não-Paroquial  
+**Tipo:** —  
+
+“É aquela que não é sede de uma paróquia.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="igreja-diocesana"></a>
+
+### IGREJA DIOCESANA  
+**Tipo:** Estrutura  
+
+“Igreja”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="ipso-iure"></a>
+
+### Ipso Iure  
+**Tipo:** —  
+
+“Pelo próprio direito.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="irmão-professo"></a>
+
+### Irmão professo  
+**Tipo:** Pessoa  
+
+“São aqueles (as) que fizeram a profissão dos conselhos evangélicos em um Instituto de Vida Consagrada Religioso.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="instituições-eclesiásticas"></a>
+
+### Instituições Eclesiásticas  
+**Tipo:** Entidade  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="institutos-de-vida-consagrada-ivc"></a>
+
+### Institutos de Vida Consagrada (IVC)  
+**Tipo:** Entidade  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="liber-pontificalis"></a>
+
+### Liber Pontificalis  
+**Tipo:** —  
+
+“Livro dos Pontífices.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="laicato"></a>
+
+### Laicato  
+**Tipo:** —  
+
+“São os fiéis cristãos, incorporados a Cristo pelo batismo, portanto, sacerdotes, profetas e reis e que não constituídos em ministros sagrados ou clérigos.”
+
+**Fonte:** Anuário Católico do Brasil 2015
