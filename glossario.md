@@ -1250,7 +1250,7 @@ Pode assumir mais de uma paróquia, se faltar sacerdotes ou por outras circunst�
 <a id="pastor-bonus"></a>
 ### Pastor Bonus  
 **Tipo:** Documento  
-Bom Pastor, Constituição Apostólica sobre a Reforma da Cúria Romana.  
+"Bom Pastor, Constituição Apostólica sobre a Reforma da Cúria Romana."  
 **Fonte:** Anuário Católico do Brasil 2015  
 ---
 
