@@ -121,6 +121,10 @@
 - [OSIB](#osib-organização-dos-seminários-e-institutos-filosófico-teológicos-do-brasil)
 - [Outros Conselhos](#outros-conselhos)
 - [Órgãos Filiais](#órgãos-filiais)
+- [Paróquias](#paróquias)
+- [Pároco](#pároco)
+- [Prelatura Territorial](#prelatura-territorial)
+- [Pastorais](#pastorais)
 
 
 
@@ -1206,4 +1210,35 @@ Constituição Apostólica *Provida Mater Ecclesia* – art. I – *Lex peculiar
 ### Órgãos Filiais  
 **Tipo:** Entidade  
 "Órgãos Filiais são órgãos ou unidades secundárias sob a mesma razão social subordinadas à matriz (CNBB) que seguem suas diretrizes e estratégias."  
+---
+<a id="paróquias"></a>
+### Paróquias  
+**Tipo:** Entidade  
+"A paróquia é uma certa comunidade de fiéis, constituída estavelmente na Igreja particular, cuja cura pastoral, sob a autoridade do Bispo diocesano, está confiada ao pároco, como a seu pastor próprio."  
+Pode ser entregue a um IVC ou um SVA perpetuamente ou por contrato com tempo determinado. (CDC Cân. 515 — § 1.)  
+O responsável é um Pároco, na vacância, um Administrador Paroquial.  
+Após 1 ano vacante, deve-se nomear pároco. (Cân. 520)  
+Só pode ter 1 pároco (Cân. 526)  
+**Fonte:** CDC  
+---
+
+<a id="pároco"></a>
+### Pároco  
+**Tipo:** Pessoa  
+"O pároco é o pastor próprio da paróquia que lhe foi confiada, e presta a cura pastoral à comunidade que lhe foi entregue, sob a autoridade do Bispo diocesano, do qual foi chamado a partilhar o ministério de Cristo, para que, em favor da mesma comunidade, desempenhe o múnus de ensinar, santificar e governar, com a cooperação ainda de outros presbíteros ou diáconos e com a ajuda de fiéis leigos, nos termos do direito."  
+Pode assumir mais de uma paróquia, se faltar sacerdotes ou por outras circunstâncias  
+**Fonte:** CDC Cân. 519, Cân. 526  
+---
+
+<a id="prelatura-territorial"></a>
+### Prelatura Territorial  
+**Tipo:** Tipos de Circunscrição Eclesiástica  
+"A prelatura territorial ou a abadia territorial é uma porção do povo de Deus, circunscrita territorialmente, cujo cuidado pastoral, em virtude de circunstâncias especiais, é cometido a um Prelado ou Abade, que a governa como seu pastor próprio, à maneira de Bispo diocesano."  
+**Fonte:** CDC Cân. 370  
+---
+
+<a id="pastorais"></a>
+### Pastorais  
+**Tipo:** Instância  
+"Ação pastoral da Igreja no Brasil ou simplesmente pastoral é a ação da Igreja Católica no mundo ou o conjunto de atividades pelas quais a Igreja realiza a sua missão de continuar a ação de Jesus Cristo junto a diferentes grupos e realidades."  
 ---
