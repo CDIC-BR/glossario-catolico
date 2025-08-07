@@ -11,6 +11,10 @@
 - [Basílica Instituição](#basilica-instituicao)
 - [Bispo](#bispo)
 - [Basílica Paróquia](#basilica-paroquia)
+- [Conselho Pastoral](#conselho-pastoral)
+- [CNBB](#cnbb)
+- [Cúria](#curia)
+- [Circunscrição Eclesiástica](#circunscricao-eclesiastica)
 
 ---
 
@@ -93,6 +97,65 @@
 **Classificação:** Tipo de Paróquia
 
 > *(Definição pendente)*
+>
+> <a id="conselho-pastoral"></a>
+
+### Conselho Pastoral
+**Tipo:** Conselho Diocesano
+
+“O conselho pastoral é constituído por fiéis que se encontrem em plena comunhão com a Igreja católica, quer clérigos quer membros dos institutos de vida consagrada, quer sobretudo leigos, designados pelo modo determinado pelo Bispo diocesano.”
+
+**Fonte:** CDC Cân. 512
+
+---
+
+<a id="cnbb"></a>
+
+### CNBB
+**Tipo:** Estrutura
+
+A Conferência Nacional dos Bispos do Brasil (CNBB) é a instituição permanente que congrega os Bispos da Igreja Católica Apostólica Romana no Brasil, na qual exercem conjuntamente algumas funções pastorais em favor dos fiéis. (CDC cân. 381, § 2)
+
+Data de fundação 14/10/1952 – Rio de Janeiro. Transferida para Brasília em 1977
+
+Toda decisão é colegiada.
+
+Hierarquia deliberativa: Assembleia Geral > Conselho Permanente > Presidência > Conselho Episcopal Pastoral
+
+Tem como missão colaborar com outros organismos da Igreja Católica, mas não exerce autoridade exclusiva.
+
+**Fonte:** CDC cân. 381, § 2
+
+---
+
+<a id="curia"></a>
+
+### Cúria
+**Tipo:** Entidade
+
+CDC Cân. 469 — A cúria diocesana compõe-se das instituições e pessoas que prestam serviço ao Bispo diocesano no governo de toda a diocese, principalmente na direcção da acção pastoral, na administração da diocese e no exercício do poder judicial.
+
+---
+
+<a id="circunscricao-eclesiastica"></a>
+
+### Circunscrição Eclesiástica
+**Tipo:** Entidade
+
+Circunscrição Eclesiástica (o CDC nomeia como Igreja Particular) é a representação da Igreja Universal na figura de um Bispo, podendo ser:
+
+1. Diocese: porção do povo de Deus confiada a um Bispo e com cooperação de um presbítero;
+
+2. Prelazia/Abadia: semelhante à diocese, porém por questões históricas ou culturais, é confiada a um Prelado (que pode ser Bispo) ou Abade (que não pode ser Bispo);
+
+3. Vicariato Apostólico/Prefeitura Apostólica: territórios que ainda não foram eregidos a diocese. Governados por um Vigário Apostólico (pode ser Bispo) ou Prefeito Apostólico (geralmente um presbítero);
+
+4. Administração Apostólica: é uma CE que nunca foi diocese, mas por questões específicas, por tempo determinado ou não, é eregida estavelmente e administrada por um Administrador Apostólico.
+
+**Fonte:** CDC A partir do cân. 368
+
+---
+
 
 
 
