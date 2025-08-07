@@ -47,6 +47,18 @@
 - [Comissão Episcopal para a Animação Bíblico-Catequética](#comissao-episcopal-para-a-animacao-biblico-catequetica)
 - [Comissão Episcopal para a Comunicação Social](#comissao-episcopal-para-a-comunicacao-social)
 - [Comissão Episcopal para a Cultura e Educação](#comissao-episcopal-para-a-cultura-e-educacao)
+- [Comissão Episcopal para a Doutrina da Fé](#comissao-episcopal-para-a-doutrina-da-fe)
+- [Comissão Episcopal para a Juventude](#comissao-episcopal-para-a-juventude)
+- [Comissão Episcopal para a Liturgia](#comissao-episcopal-para-a-liturgia)
+- [Comissão Episcopal para a Vida e a Família](#comissao-episcopal-para-a-vida-e-a-familia)
+- [Comissão Episcopal para o Ecumenismo e o Diálogo Inter-religioso](#comissao-episcopal-para-o-ecumenismo-e-o-dialogo-inter-religioso)
+- [Comissão Episcopal para o Laicato](#comissao-episcopal-para-o-laicato)
+- [Comissão Episcopal para os Ministérios Ordenados e a Vida Consagrada](#comissao-episcopal-para-os-ministerios-ordenados-e-a-vida-consagrada)
+- [Comissão Especial de Bioética](#comissao-especial-de-bioetica)
+- [Comissão Especial para a Amazônia](#comissao-especial-para-a-amazonia)
+- [Comissão Especial para a Causa dos Santos](#comissao-especial-para-a-causa-dos-santos)
+- [Comissão Especial para a Comunhão e Partilha](#comissao-especial-para-a-comunhao-e-partilha)
+- [Comissão Especial para a Ecologia Integral e Mineração (CEEM)](#comissao-especial-para-a-ecologia-integral-e-mineracao-ceem)
 
 
 ---
@@ -467,5 +479,111 @@ Sem descrição disponível.
 
 ---
 
+<a id="comissao-episcopal-para-a-doutrina-da-fe"></a>
 
+### Comissão Episcopal para a Doutrina da Fé  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-juventude"></a>
+
+### Comissão Episcopal para a Juventude  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-liturgia"></a>
+
+### Comissão Episcopal para a Liturgia  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-vida-e-a-familia"></a>
+
+### Comissão Episcopal para a Vida e a Família  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-o-ecumenismo-e-o-dialogo-inter-religioso"></a>
+
+### Comissão Episcopal para o Ecumenismo e o Diálogo Inter-religioso  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-o-laicato"></a>
+
+### Comissão Episcopal para o Laicato  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-os-ministerios-ordenados-e-a-vida-consagrada"></a>
+
+### Comissão Episcopal para os Ministérios Ordenados e a Vida Consagrada  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-de-bioetica"></a>
+
+### Comissão Especial de Bioética  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-para-a-amazonia"></a>
+
+### Comissão Especial para a Amazônia  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-para-a-causa-dos-santos"></a>
+
+### Comissão Especial para a Causa dos Santos  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-para-a-comunhao-e-partilha"></a>
+
+### Comissão Especial para a Comunhão e Partilha  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-para-a-ecologia-integral-e-mineracao-ceem"></a>
+
+### Comissão Especial para a Ecologia Integral e Mineração (CEEM)  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
 
