@@ -38,6 +38,15 @@
 - [CND (Comissão Nacional dos Diáconos)](#cnd-comissao-nacional-dos-diaconos)
 - [CNISB (Conferência Nacional dos Institutos Seculares do Brasil)](#cnisb-conferencia-nacional-dos-institutos-seculares-do-brasil)
 - [CNLB (Conselho Nacional do Laicato do Brasil)](#cnlb-conselho-nacional-do-laicato-do-brasil)
+- [CNP (Comissão Nacional de Presbíteros)](#cnp-comissao-nacional-de-presbiteros)
+- [COMINA (Conselho Missionário Nacional)](#comina-conselho-missionario-nacional)
+- [Comissão da Campanha para a Evangelização](#comissao-da-campanha-para-a-evangelizacao)
+- [Comissão de Textos Litúrgicos – CETEL](#comissao-de-textos-liturgicos--cetel)
+- [Comissão Episcopal para a Ação Missionária e Cooperação Intereclesial](#comissao-episcopal-para-a-acao-missionaria-e-cooperacao-intereclesial)
+- [Comissão Episcopal para a Ação Sociotransformadora](#comissao-episcopal-para-a-acao-sociotransformadora)
+- [Comissão Episcopal para a Animação Bíblico-Catequética](#comissao-episcopal-para-a-animacao-biblico-catequetica)
+- [Comissão Episcopal para a Comunicação Social](#comissao-episcopal-para-a-comunicacao-social)
+- [Comissão Episcopal para a Cultura e Educação](#comissao-episcopal-para-a-cultura-e-educacao)
 
 
 ---
@@ -181,180 +190,282 @@ Circunscrição Eclesiástica (o CDC nomeia como Igreja Particular) é a represe
 ---
 <a id="comissoes-especiais"></a>
 
-Comissões Especiais
-Tipo: Entidade
+### Comissões Especiais
+**Tipo:** Entidade
 
 "Comissões Episcopais Especiais dentro da Igreja Católica são órgãos temporários, criados para tratar de assuntos específicos e relevantes para a ação pastoral, muitas vezes com foco em questões pontuais ou emergentes."
 
+---
 <a id="comissoes-episcopais"></a>
 
-Comissões Episcopais
-Tipo: Entidade
+### Comissões Episcopais
+**Tipo:** Entidade
 
 "Comissões Episcopais são grupos de trabalho formados por bispos, dentro da estrutura da Igreja Católica, que auxiliam os bispos no exercício de suas funções pastorais. As Comissões Episcopais permanentes da CNBB são doze e têm por objetivo implementar as Diretrizes Gerais da Ação Evangelizadora da Igreja no Brasil, auxiliando os Bispos na sua missão por meio de subsídios. Elas atuam de duas maneiras: em conjunto com o Conselho Episcopal de Pastoral (CONSEP), auxiliando os Bispos na Ação Evangelizadora em âmbito nacional; e individualmente, no seu respectivo campo de atuação, por meio de estudos, articulações da Ação Evangelizadora em nível nacional e assessorando as iniciativas pastorais dos Bispos nas suas Igrejas Particulares."
 
+---
 <a id="conferencia-episcopal"></a>
 
-Conferência Episcopal
-Tipo: —
+### Conferência Episcopal
+**Tipo:** —
 
 "É a reunião dos Bispos de uma ou várias nações no exercício de certas funções pastorais em favor dos fiéis."
 
-Fonte: Anuário Católico do Brasil 2015
+**Fonte:** Anuário Católico do Brasil 2015
 
+---
 <a id="chanceler"></a>
 
-Chanceler
-Tipo: —
+### Chanceler
+**Tipo:** —
 
 "É aquele (a) cujo ofício principal, salvo determinação diversa do direito particular, é cuidar que os atos da cúria sejam redigidos e despachados, bem como sejam guardados no arquivo da cúria."
 
 Fonte: Anuário Católico do Brasil 2015
 <a id="camerlengo"></a>
 
-Camerlengo
-Tipo: —
+### Camerlengo
+**Tipo:** —
 
 "É o Cardeal Administrador da propriedade e da receita da Sé Apostólica, sua principal função é a determinação formal da morte do Papa e a destruição do anel e do selo do pescador; tendo também algumas funções específicas durante a vacância da Sé Apostólica."
 
-Fonte: Anuário Católico do Brasil 2015
+**Fonte:** Anuário Católico do Brasil 2015
 
+---
 <a id="capelao"></a>
 
-Capelão
-Tipo: —
+### Capelão
+**Tipo:** —
 
 "É o presbítero a quem se confia a cura pastoral de uma capelania, religiosa, militar, etc."
 
-Fonte: Anuário Católico do Brasil 2015
+**Fonte:** Anuário Católico do Brasil 2015
 
+---
 <a id="capelania"></a>
 
-Capelania
-Tipo: Tipo de Instituição
+### Capelania
+**Tipo:** Tipo de Instituição
 
 "É uma instituição da Igreja pela qual se presta o serviço pastoral, de modo estável a alguma comunidade ou grupo peculiar de fiéis (escolar, hospitalar, militar, etc)."
 
-Fonte: Anuário Católico do Brasil 2015
+**Fonte:** Anuário Católico do Brasil 2015
 
 <a id="comissoes"></a>
 
-Comissões
-Tipo: Entidade
+### Comissões
+**Tipo:** Entidade
 
 "Grupos de trabalho formados por bispos, dentro da estrutura da Igreja Católica, que auxiliam os bispos no exercício de suas funções pastorais."
 
+---
 <a id="canoes"></a>
 
-Cânones
-Tipo: —
+### Cânones
+**Tipo:** —
 
 "São aqueles que compõem as normativas dos Concílios e hoje, mais propriamente, que compõem os Códigos da Igreja."
 
-Fonte: Anuário Católico do Brasil 2015
+**Fonte:** Anuário Católico do Brasil 2015
 
+---
 <a id="capelas-particulares"></a>
 
-Capelas Particulares
-Tipo: —
+### Capelas Particulares
+**Tipo:** —
 
 "São os lugares destinados, com a licença do Ordinário local, ao culto divino em favor de uma ou mais pessoas físicas."
 
-Fonte: Anuário Católico do Brasil 2015
+**Fonte:** Anuário Católico do Brasil 2015
 
+---
 <a id="conego"></a>
 
-Cônego
-Tipo: —
+### Cônego
+**Tipo:** —
 
 "Título dado aos presbíteros diocesanos membros do Cabido da catedral ou de uma Igreja Colegial. Existem também os Cônegos Regulares, que são religiosos membros de uma Ordem Religiosa. Tal título pode ser dado também ao penitenciário da Diocese."
 
-Fonte: Anuário Católico do Brasil 2015
+**Fonte:** Anuário Católico do Brasil 2015
 
+---
 <a id="camaras-eclesiasticas"></a>
 
-Câmaras Eclesiásticas
-Tipo: Entidade
+### Câmaras Eclesiásticas
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
 <a id="capelas"></a>
 
-Capelas
-Tipo: Entidade
+### Capelas
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
 <a id="caritas-brasileira"></a>
 
-CÁRITAS BRASILEIRA
-Tipo: Entidade
+### CÁRITAS BRASILEIRA
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
 <a id="casa-dom-luciano"></a>
 
-Casa Dom Luciano
-Tipo: Órgão Filial CNBB
+### Casa Dom Luciano
+**Tipo:** Órgão Filial CNBB
 
 Sem descrição disponível.
 
+---
 <a id="catedral"></a>
 
-Catedral
-Tipo: Entidade
+### Catedral
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
 <a id="cbjp-comissao-brasileira-justica-e-paz"></a>
 
-CBJP (Comissão Brasileira Justiça e Paz)
-Tipo: Comissão
+### CBJP (Comissão Brasileira Justiça e Paz)
+**Tipo:** Comissão
 
 Sem descrição disponível.
 
+---
 <a id="ccm"></a>
 
-CCM
-Tipo: Órgão Filial CNBB
+### CCM
+**Tipo:** Órgão Filial CNBB
 
 Sem descrição disponível.
 
+---
 <a id="cefep-centro-nacional-de-fe-e-politica-dom-helder-camara"></a>
 
-CEFEP (Centro Nacional de Fé e Política Dom Helder Camara)
-Tipo: Entidade
+### CEFEP (Centro Nacional de Fé e Política Dom Helder Camara)
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
 <a id="cimi-conselho-indigenista-missionario"></a>
 
-CIMI (Conselho Indigenista Missionário)
-Tipo: Organismo
+### CIMI (Conselho Indigenista Missionário)
+**Tipo:** Organismo
 
 Sem descrição disponível.
 
+---
 <a id="cnd-comissao-nacional-dos-diaconos"></a>
 
-CND (Comissão Nacional dos Diáconos)
-Tipo: Entidade
+### CND (Comissão Nacional dos Diáconos)
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
 <a id="cnisb-conferencia-nacional-dos-institutos-seculares-do-brasil"></a>
 
-CNISB (Conferência Nacional dos Institutos Seculares do Brasil)
-Tipo: Entidade
+### CNISB (Conferência Nacional dos Institutos Seculares do Brasil)
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
 <a id="cnlb-conselho-nacional-do-laicato-do-brasil"></a>
 
-CNLB (Conselho Nacional do Laicato do Brasil)
-Tipo: Entidade
+### CNLB (Conselho Nacional do Laicato do Brasil)
+**Tipo:** Entidade
 
 Sem descrição disponível.
 
+---
+
+<a id="cnp-comissao-nacional-de-presbiteros"></a>
+
+### CNP (Comissão Nacional de Presbíteros)
+**Tipo:** Entidade  
+
+Sem descrição disponível.
+
+---
+
+<a id="comina-conselho-missionario-nacional"></a>
+
+### COMINA (Conselho Missionário Nacional)
+**Tipo:** Entidade  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-da-campanha-para-a-evangelizacao"></a>
+
+### Comissão da Campanha para a Evangelização
+**Tipo:** Entidade  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-de-textos-liturgicos--cetel"></a>
+
+### Comissão de Textos Litúrgicos – CETEL
+**Tipo:** Entidade  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-acao-missionaria-e-cooperacao-intereclesial"></a>
+
+### Comissão Episcopal para a Ação Missionária e Cooperação Intereclesial
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-acao-sociotransformadora"></a>
+
+### Comissão Episcopal para a Ação Sociotransformadora
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-animacao-biblico-catequetica"></a>
+
+### Comissão Episcopal para a Animação Bíblico-Catequética
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-comunicacao-social"></a>
+
+### Comissão Episcopal para a Comunicação Social
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-episcopal-para-a-cultura-e-educacao"></a>
+
+### Comissão Episcopal para a Cultura e Educação
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
 
 
 
