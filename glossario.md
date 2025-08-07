@@ -19,6 +19,13 @@
 - [Comissões Episcopais](#comissoes-episcopais)
 - [Conferência Episcopal](#conferencia-episcopal)
 - [Chanceler](#chanceler)
+- [Camerlengo](#camerlengo)
+- [Capelão](#capelao)
+- [Capelania](#capelania)
+- [Comissões](#comissoes)
+- [Cânones](#canoes)
+- [Capelas Particulares](#capelas-particulares)
+- [Cônego](#conego)
 
 ---
 
@@ -188,6 +195,66 @@ Chanceler
 Tipo: —
 
 "É aquele (a) cujo ofício principal, salvo determinação diversa do direito particular, é cuidar que os atos da cúria sejam redigidos e despachados, bem como sejam guardados no arquivo da cúria."
+
+Fonte: Anuário Católico do Brasil 2015
+<a id="camerlengo"></a>
+
+Camerlengo
+Tipo: —
+
+"É o Cardeal Administrador da propriedade e da receita da Sé Apostólica, sua principal função é a determinação formal da morte do Papa e a destruição do anel e do selo do pescador; tendo também algumas funções específicas durante a vacância da Sé Apostólica."
+
+Fonte: Anuário Católico do Brasil 2015
+
+<a id="capelao"></a>
+
+Capelão
+Tipo: —
+
+"É o presbítero a quem se confia a cura pastoral de uma capelania, religiosa, militar, etc."
+
+Fonte: Anuário Católico do Brasil 2015
+
+<a id="capelania"></a>
+
+Capelania
+Tipo: Tipo de Instituição
+
+"É uma instituição da Igreja pela qual se presta o serviço pastoral, de modo estável a alguma comunidade ou grupo peculiar de fiéis (escolar, hospitalar, militar, etc)."
+
+Fonte: Anuário Católico do Brasil 2015
+
+<a id="comissoes"></a>
+
+Comissões
+Tipo: Entidade
+
+"Grupos de trabalho formados por bispos, dentro da estrutura da Igreja Católica, que auxiliam os bispos no exercício de suas funções pastorais."
+
+<a id="canoes"></a>
+
+Cânones
+Tipo: —
+
+"São aqueles que compõem as normativas dos Concílios e hoje, mais propriamente, que compõem os Códigos da Igreja."
+
+Fonte: Anuário Católico do Brasil 2015
+
+<a id="capelas-particulares"></a>
+
+Capelas Particulares
+Tipo: —
+
+"São os lugares destinados, com a licença do Ordinário local, ao culto divino em favor de uma ou mais pessoas físicas."
+
+Fonte: Anuário Católico do Brasil 2015
+
+<a id="conego"></a>
+
+Cônego
+Tipo: —
+
+"Título dado aos presbíteros diocesanos membros do Cabido da catedral ou de uma Igreja Colegial. Existem também os Cônegos Regulares, que são religiosos membros de uma Ordem Religiosa. Tal título pode ser dado também ao penitenciário da Diocese."
 
 Fonte: Anuário Católico do Brasil 2015
 
