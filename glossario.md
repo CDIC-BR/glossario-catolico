@@ -66,6 +66,16 @@
 - [Comissão para os Tribunais Eclesiásticos de 2º Instância – CETESI](#comissao-para-os-tribunais-eclesiasticos-de-2-instancia--citesi)
 - [Concatedral](#concatedral)
 - [Conselho Diretor do Movimento de Educação de Base (MEB)](#conselho-diretor-do-movimento-de-educacao-de-base-meb)
+- [Conselho Econômico](#conselho-economico)
+- [Conselho Episcopal Pastoral](#conselho-episcopal-pastoral)
+- [Conselho Episcopal Regional](#conselho-episcopal-regional)
+- [Conselho Fiscal](#conselho-fiscal)
+- [Conselho Gestor do Fundo Nacional de Solidariedade (FNS)](#conselho-gestor-do-fundo-nacional-de-solidariedade-fns)
+- [Conselho para o Santuário Nacional de Nossa Senhora Aparecida](#conselho-para-o-santuario-nacional-de-nossa-senhora-aparecida)
+- [Conselho Permanente](#conselho-permanente)
+- [CPT (Comissão Pastoral da Terra)](#cpt-comissao-pastoral-da-terra)
+- [CRB (Conferência dos Religiosos do Brasil)](#crb-conferencia-dos-religiosos-do-brasil)
+
 
 
 
@@ -656,4 +666,83 @@ Sem descrição disponível.
 Sem descrição disponível.
 
 ---
+<a id="conselho-economico"></a>
 
+### Conselho Econômico  
+**Tipo:** Instância  
+
+Sem descrição disponível.
+
+---
+
+<a id="conselho-episcopal-pastoral"></a>
+
+### Conselho Episcopal Pastoral  
+**Tipo:** Instância  
+
+Sem descrição disponível.
+
+---
+
+<a id="conselho-episcopal-regional"></a>
+
+### Conselho Episcopal Regional  
+**Tipo:** Instância  
+
+Sem descrição disponível.
+
+---
+
+<a id="conselho-fiscal"></a>
+
+### Conselho Fiscal  
+**Tipo:** Conselho  
+
+Sem descrição disponível.
+
+---
+
+<a id="conselho-gestor-do-fundo-nacional-de-solidariedade-fns"></a>
+
+### Conselho Gestor do Fundo Nacional de Solidariedade (FNS)  
+**Tipo:** Conselho  
+
+Sem descrição disponível.
+
+---
+
+<a id="conselho-para-o-santuario-nacional-de-nossa-senhora-aparecida"></a>
+
+### Conselho para o Santuário Nacional de Nossa Senhora Aparecida  
+**Tipo:** Conselho  
+
+Sem descrição disponível.
+
+---
+
+<a id="conselho-permanente"></a>
+
+### Conselho Permanente  
+**Tipo:** Instância  
+
+Sem descrição disponível.
+
+---
+
+<a id="cpt-comissao-pastoral-da-terra"></a>
+
+### CPT (Comissão Pastoral da Terra)  
+**Tipo:** Comissão  
+
+Sem descrição disponível.
+
+---
+
+<a id="crb-conferencia-dos-religiosos-do-brasil"></a>
+
+### CRB (Conferência dos Religiosos do Brasil)  
+**Tipo:** Organismo  
+
+Sem descrição disponível.
+
+---
