@@ -95,6 +95,10 @@
 - [Elenco de clérigos e leigos](#elenco-de-clérigos-e-leigos)
 - [Elenco de leigos seculares](#elenco-de-leigos-seculares)
 - [Eremitas](#eremitas)
+- [Exarcado Apostólico](#exarcado-apostólico)
+- [Formação de clérigos](#formação-de-clérigos)
+- [Institutos Religiosos](#institutos-religiosos)
+- [Institutos Seculares](#institutos-seculares)
 
 
 
@@ -959,3 +963,51 @@ Sem descrição disponível.
 **Tipo:** Entidade  
 
 *Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="exarcado-apostólico"></a>
+
+### Exarcado Apostólico  
+**Tipo:** Tipos de Circunscrição Eclesiástica  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="formação-de-clérigos"></a>
+
+### Formação de clérigos  
+**Tipo:** Entidade  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="institutos-religiosos"></a>
+
+### Institutos Religiosos  
+**Tipo:** Entidade  
+
+“A vida consagrada pela profissão dos conselhos evangélicos da qual a vida religiosa é uma modalidade é uma forma estável de viver, pela qual os fiéis, seguindo mais de perto a Cristo sob a ação do Espírito Santo, consagram-se totalmente a Deus sumamente amado.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="institutos-seculares"></a>
+
+### Institutos Seculares  
+**Tipo:** Entidade  
+
+“Instituto secular é o Instituto de vida consagrada, em que os fiéis, vivendo no mundo, se esforçam por atingir a perfeição da caridade e para contribuir para a santificação do mundo, sobretudo a partir de dentro.”
+
+“Instituto secular é o instituto de vida consagrada, em que os fiéis, vivendo no século, se esforçam por atingir a perfeição da caridade e por contribuir, para a santificação do mundo, sobretudo a partir de dentro.” (cân. 710)
+
+“As Associações de clérigos ou de leigos cujos membros, para adquirir a perfeição cristã e exercer plenamente o apostolado, fazem profissão de praticar no mundo os conselhos evangélicos, recebem o nome especial de ‘Institutos’ ou ‘Institutos Seculares’, a fim de se distinguirem convenientemente das outras Associações comum de fiéis e regem-se pelas normas desta Constituição apostólica.” (Constituição Apostólica *Provida Mater Ecclesia*)
+
+**Fonte:**  
+CDC Cân. 710  
+[https://cnisb.org.br/o-que-sao-os-institutos-seculares/](https://cnisb.org.br/o-que-sao-os-institutos-seculares/)  
+Constituição Apostólica *Provida Mater Ecclesia* – art. I – *Lex peculiaris Institutorum saecularium*
+
