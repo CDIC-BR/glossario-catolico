@@ -108,6 +108,13 @@
 - [Institutos de Vida Consagrada (IVC)](#institutos-de-vida-consagrada-ivc)
 - [Liber Pontificalis](#liber-pontificalis)
 - [Laicato](#laicato)
+- [Legados Pontifícios](#legados-pontifícios)
+- [Leigo secular](#leigo-secular)
+- [Metropolita](#metropolita)
+- [Moderador da cúria](#moderador-da-cúria)
+- [Monsenhor](#monsenhor)
+- [MEB (Movimento de Educação de Base)](#meb-movimento-de-educação-de-base)
+- [Núncio](#núncio)
 
 
 
@@ -1111,3 +1118,51 @@ Constituição Apostólica *Provida Mater Ecclesia* – art. I – *Lex peculiar
 “São os fiéis cristãos, incorporados a Cristo pelo batismo, portanto, sacerdotes, profetas e reis e que não constituídos em ministros sagrados ou clérigos.”
 
 **Fonte:** Anuário Católico do Brasil 2015
+
+---
+<a id="legados-pontifícios"></a>
+### Legados Pontifícios  
+**Tipo:** —  
+"São os Núncios Apostólicos ou os Prelados enviados pelo Papa para uma determinada missão."  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
+
+<a id="leigo-secular"></a>
+### Leigo secular  
+**Tipo:** Pessoa  
+*Definição não disponível na fonte fornecida.*  
+---
+
+<a id="metropolita"></a>
+### Metropolita  
+**Tipo:** —  
+"É o Arcebispo a quem se confia o governo de uma Sede Metropolitana e que possui Bispos sufragâneos, constituindo uma província eclesiástica."  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
+
+<a id="moderador-da-cúria"></a>
+### Moderador da cúria  
+**Tipo:** Pessoa  
+"Onde as circunstâncias o exigirem, pode a cura pastoral de uma paróquia ou simultaneamente de várias paróquias ser confiada solidariamente a vários sacerdotes, desde que um só deles seja o moderador da cura pastoral, o qual oriente a acção conjunta, e desta seja responsável perante o Bispo."  
+**Fonte:** CDC Cân. 517 — § 1.  
+---
+
+<a id="monsenhor"></a>
+### Monsenhor  
+**Tipo:** —  
+"Título honorífico concedido a um presbítero diocesano pelo Santo Padre na Igreja Ritual Latina após requerimento do Bispo. Tradicionalmente os Vigários Gerais o possuem, pelo próprio ofício."  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
+
+<a id="meb-movimento-de-educação-de-base"></a>
+### MEB (Movimento de Educação de Base)  
+**Tipo:** Entidade  
+*Definição não disponível na fonte fornecida.*  
+---
+
+<a id="núncio"></a>
+### Núncio  
+**Tipo:** —  
+"É o Legado Pontifício que representa o Romano Pontífice junto a um ou mais Estado e também junto aos Bispos de uma ou mais Nações."  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
