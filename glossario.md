@@ -125,6 +125,11 @@
 - [Pároco](#pároco)
 - [Prelatura Territorial](#prelatura-territorial)
 - [Pastorais](#pastorais)
+- [Pastor Bonus](#pastor-bonus)
+- [Província Eclesiástica](#província-eclesiástica)
+- [Propedêutico](#propedêutico)
+- [Protopresbítero](#protopresbítero)
+- [Primaz](#primaz)
 
 
 
@@ -1241,4 +1246,40 @@ Pode assumir mais de uma paróquia, se faltar sacerdotes ou por outras circunst�
 ### Pastorais  
 **Tipo:** Instância  
 "Ação pastoral da Igreja no Brasil ou simplesmente pastoral é a ação da Igreja Católica no mundo ou o conjunto de atividades pelas quais a Igreja realiza a sua missão de continuar a ação de Jesus Cristo junto a diferentes grupos e realidades."  
+---
+<a id="pastor-bonus"></a>
+### Pastor Bonus  
+**Tipo:** Documento  
+Bom Pastor, Constituição Apostólica sobre a Reforma da Cúria Romana.  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
+
+<a id="província-eclesiástica"></a>
+### Província Eclesiástica  
+**Tipo:** Circunscrição  
+É a reunião da Arquidiocese (Sede Metropolitana) com as Dioceses Sufragâneas.  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
+
+<a id="propedêutico"></a>
+### Propedêutico  
+**Tipo:** Etapa de Formação  
+É o ano que antecede a entrada em um seminário, onde se estudam matérias introdutórias e se prepara para a vida em comunidade.  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
+
+<a id="protopresbítero"></a>
+### Protopresbítero  
+**Tipo:** Cargo/Ofício  
+É o cardeal presbítero de nomeação mais antiga no Colégio Cardinalício.  
+Na diocese pode ser sinônimo de Vigário Forâneo, Coordenador de Setor, Arcipreste, etc.  
+**Fonte:** Anuário Católico do Brasil 2015  
+---
+
+<a id="primaz"></a>
+### Primaz  
+**Tipo:** Título Honorífico  
+É o Título dado ao Bispo que está à testa da Sede Episcopal mais antiga de uma nação, de um continente, etc.  
+No Brasil, é o Arcebispo de Salvador.  
+**Fonte:** Anuário Católico do Brasil 2015  
 ---
