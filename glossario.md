@@ -75,7 +75,17 @@
 - [Conselho Permanente](#conselho-permanente)
 - [CPT (Comissão Pastoral da Terra)](#cpt-comissao-pastoral-da-terra)
 - [CRB (Conferência dos Religiosos do Brasil)](#crb-conferencia-dos-religiosos-do-brasil)
-
+- [Diocese](#diocese)
+- [Direito Pontifício](#direito-pontifício)
+- [Direito Diocesano](#direito-diocesano)
+- [Dicastérios](#dicastérios)
+- [Diáconos Palatinos](#diáconos-palatinos)
+- [Direito Canônico](#direito-canônico)
+- [Dom frei](#dom-frei)
+- [Diácono Permanente](#diácono-permanente)
+- [Diácono Transitório](#diácono-transitório)
+- [Diocesano](#diocesano)
+- [Direito Litúrgico](#direito-litúrgico)
 
 
 
@@ -746,3 +756,105 @@ Sem descrição disponível.
 Sem descrição disponível.
 
 ---
+<a id="diocese"></a>
+
+### Diocese  
+**Tipo:** Tipos de Circunscrição Eclesiástica  
+
+“A diocese é a porção do povo de Deus que é confiada ao Bispo para ser apascentada com a cooperação do presbitério, de tal modo que, aderindo ao seu pastor e por esta congregada no Espírito Santo, mediante o Evangelho e a Eucaristia, constitua a Igreja particular, onde verdadeiramente se encontra e actua a Igreja de Cristo una, santa, católica e apostólica.” (cân. 369)
+
+---
+
+<a id="direito-pontifício"></a>
+
+### Direito Pontifício  
+**Tipo:** Conceito Jurídico  
+
+“Congregações são aprovadas e regulamentadas diretamente pela Santa Sé (o Papa).”
+
+---
+
+<a id="direito-diocesano"></a>
+
+### Direito Diocesano  
+**Tipo:** Conceito Jurídico  
+
+“Congregações são aprovadas e regulamentadas pelo bispo de uma diocese específica. O bispo diocesano tem autoridade sobre a congregação, incluindo a aprovação de seus estatutos, a nomeação de seus superiores e a regulamentação de suas atividades na diocese.”
+
+---
+
+<a id="dicastérios"></a>
+
+### Dicastérios  
+**Tipo:** —  
+
+“É o nome que também se dá às Congregações e Organismos da Cúria Romana.”  
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="diáconos-palatinos"></a>
+
+### Diáconos Palatinos  
+**Tipo:** Pessoa  
+
+“Eram os diáconos a serviço do Palácio Apostólico.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="direito-canônico"></a>
+
+### Direito Canônico  
+**Tipo:** Jurídico  
+
+“O Código de Direito Canônico rege unicamente à Igreja Latina (cân.1). Limita-se a elementos institucionais e determina os requisitos a serem observados sobre pessoas, objetos e lugares.”
+
+---
+
+<a id="dom-frei"></a>
+
+### Dom frei  
+**Tipo:** Pessoa  
+
+“Título dado no Brasil aos Bispos Religiosos provenientes de uma Ordem Mendicante.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="diácono-permanente"></a>
+
+### Diácono Permanente  
+**Tipo:** Pessoa  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="diácono-transitório"></a>
+
+### Diácono Transitório  
+**Tipo:** Pessoa  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="diocesano"></a>
+
+### Diocesano  
+**Tipo:** Tipos de Tribunal Eclesiástico  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="direito-litúrgico"></a>
+
+### Direito Litúrgico  
+**Tipo:** Jurídico  
+
+*Definição não disponível na fonte fornecida.*
