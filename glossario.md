@@ -15,6 +15,10 @@
 - [CNBB](#cnbb)
 - [Cúria](#curia)
 - [Circunscrição Eclesiástica](#circunscricao-eclesiastica)
+- [Comissões Especiais](#comissoes-especiais)
+- [Comissões Episcopais](#comissoes-episcopais)
+- [Conferência Episcopal](#conferencia-episcopal)
+- [Chanceler](#chanceler)
 
 ---
 
@@ -155,6 +159,37 @@ Circunscrição Eclesiástica (o CDC nomeia como Igreja Particular) é a represe
 **Fonte:** CDC A partir do cân. 368
 
 ---
+<a id="comissoes-especiais"></a>
+
+Comissões Especiais
+Tipo: Entidade
+
+"Comissões Episcopais Especiais dentro da Igreja Católica são órgãos temporários, criados para tratar de assuntos específicos e relevantes para a ação pastoral, muitas vezes com foco em questões pontuais ou emergentes."
+
+<a id="comissoes-episcopais"></a>
+
+Comissões Episcopais
+Tipo: Entidade
+
+"Comissões Episcopais são grupos de trabalho formados por bispos, dentro da estrutura da Igreja Católica, que auxiliam os bispos no exercício de suas funções pastorais. As Comissões Episcopais permanentes da CNBB são doze e têm por objetivo implementar as Diretrizes Gerais da Ação Evangelizadora da Igreja no Brasil, auxiliando os Bispos na sua missão por meio de subsídios. Elas atuam de duas maneiras: em conjunto com o Conselho Episcopal de Pastoral (CONSEP), auxiliando os Bispos na Ação Evangelizadora em âmbito nacional; e individualmente, no seu respectivo campo de atuação, por meio de estudos, articulações da Ação Evangelizadora em nível nacional e assessorando as iniciativas pastorais dos Bispos nas suas Igrejas Particulares."
+
+<a id="conferencia-episcopal"></a>
+
+Conferência Episcopal
+Tipo: —
+
+"É a reunião dos Bispos de uma ou várias nações no exercício de certas funções pastorais em favor dos fiéis."
+
+Fonte: Anuário Católico do Brasil 2015
+
+<a id="chanceler"></a>
+
+Chanceler
+Tipo: —
+
+"É aquele (a) cujo ofício principal, salvo determinação diversa do direito particular, é cuidar que os atos da cúria sejam redigidos e despachados, bem como sejam guardados no arquivo da cúria."
+
+Fonte: Anuário Católico do Brasil 2015
 
 
 
