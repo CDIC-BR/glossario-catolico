@@ -130,6 +130,15 @@
 - [Propedêutico](#propedêutico)
 - [Protopresbítero](#protopresbítero)
 - [Primaz](#primaz)
+- [Prefeitura Apostólica](#prefeitura-apostólica)
+- [Províncias Eclesiásticas](#províncias-eclesiásticas)
+- [Prelado](#prelado)
+- [Pastoral Afro-Brasileira](#pastoral-afro-brasileira)
+- [Pastoral Aids](#pastoral-aids)
+- [Pastoral Brasileiros no Exterior – PBE](#pastoral-brasileiros-no-exterior--pbe)
+- [Pastoral Carcerária](#pastoral-carcerária)
+- [Pastoral Comunicação (PASCOM)](#pastoral-comunicação-pascom)
+
 
 
 
@@ -1138,48 +1147,66 @@ Constituição Apostólica *Provida Mater Ecclesia* – art. I – *Lex peculiar
 <a id="legados-pontifícios"></a>
 ### Legados Pontifícios  
 **Tipo:** —  
+
 "São os Núncios Apostólicos ou os Prelados enviados pelo Papa para uma determinada missão."  
-**Fonte:** Anuário Católico do Brasil 2015  
+
+**Fonte:** Anuário Católico do Brasil 2015
+
 ---
 
 <a id="leigo-secular"></a>
 ### Leigo secular  
 **Tipo:** Pessoa  
+
 *Definição não disponível na fonte fornecida.*  
+
 ---
 
 <a id="metropolita"></a>
 ### Metropolita  
 **Tipo:** —  
 "É o Arcebispo a quem se confia o governo de uma Sede Metropolitana e que possui Bispos sufragâneos, constituindo uma província eclesiástica."  
-**Fonte:** Anuário Católico do Brasil 2015  
+
+**Fonte:** Anuário Católico do Brasil 2015
+
 ---
 
 <a id="moderador-da-cúria"></a>
-### Moderador da cúria  
+### Moderador da cúria 
+
 **Tipo:** Pessoa  
 "Onde as circunstâncias o exigirem, pode a cura pastoral de uma paróquia ou simultaneamente de várias paróquias ser confiada solidariamente a vários sacerdotes, desde que um só deles seja o moderador da cura pastoral, o qual oriente a acção conjunta, e desta seja responsável perante o Bispo."  
-**Fonte:** CDC Cân. 517 — § 1.  
+
+**Fonte:** CDC Cân. 517 — § 1.
+
 ---
 
 <a id="monsenhor"></a>
 ### Monsenhor  
 **Tipo:** —  
-"Título honorífico concedido a um presbítero diocesano pelo Santo Padre na Igreja Ritual Latina após requerimento do Bispo. Tradicionalmente os Vigários Gerais o possuem, pelo próprio ofício."  
-**Fonte:** Anuário Católico do Brasil 2015  
+"Título honorífico concedido a um presbítero diocesano pelo Santo Padre na Igreja Ritual Latina após requerimento do Bispo. Tradicionalmente os Vigários Gerais o possuem, pelo próprio ofício." 
+
+**Fonte:** Anuário Católico do Brasil 2015
+
 ---
 
 <a id="meb-movimento-de-educação-de-base"></a>
 ### MEB (Movimento de Educação de Base)  
-**Tipo:** Entidade  
-*Definição não disponível na fonte fornecida.*  
+
+**Tipo:** Entidade
+
+"Definição não disponível na fonte fornecida." 
+
 ---
 
 <a id="núncio"></a>
 ### Núncio  
-**Tipo:** —  
-"É o Legado Pontifício que representa o Romano Pontífice junto a um ou mais Estado e também junto aos Bispos de uma ou mais Nações."  
-**Fonte:** Anuário Católico do Brasil 2015  
+**Tipo:** —
+
+"É o Legado Pontifício que representa o Romano Pontífice junto a um ou mais Estado e também junto aos Bispos de uma ou mais Nações."
+
+**Fonte:** Anuário Católico do Brasil 2015
+
 ---
 <a id="ordem-das-virgens"></a>
 ### Ordem das Virgens  
@@ -1189,97 +1216,200 @@ Constituição Apostólica *Provida Mater Ecclesia* – art. I – *Lex peculiar
 
 <a id="organismos"></a>
 ### Organismos  
-**Tipo:** Entidade  
-"Organizações católicas que representam, em âmbito nacional, as diversas categorias do povo de Deus."  
+**Tipo:** Entidade
+
+"Organizações católicas que representam, em âmbito nacional, as diversas categorias do povo de Deus."
+
 ---
 
 <a id="ordinariado-militar"></a>
 ### Ordinariado Militar  
-**Tipo:** Tipos de Circunscrição Eclesiástica  
-*Definição não disponível na fonte fornecida.*  
+**Tipo:** Tipos de Circunscrição Eclesiástica
+
+*Definição não disponível na fonte fornecida.*
+
 ---
 
 <a id="osib-organização-dos-seminários-e-institutos-filosófico-teológicos-do-brasil"></a>
 ### OSIB (Organização dos Seminários e Institutos Filosófico-Teológicos do Brasil)  
-**Tipo:** Entidade  
-*Definição não disponível na fonte fornecida.*  
+**Tipo:** Entidade
+
+*Definição não disponível na fonte fornecida.*
+
 ---
 
 <a id="outros-conselhos"></a>
 ### Outros Conselhos  
-**Tipo:** Entidade  
-*Definição não disponível na fonte fornecida.*  
+**Tipo:** Entidade
+
+*Definição não disponível na fonte fornecida.*
+
 ---
 
 <a id="órgãos-filiais"></a>
 ### Órgãos Filiais  
-**Tipo:** Entidade  
-"Órgãos Filiais são órgãos ou unidades secundárias sob a mesma razão social subordinadas à matriz (CNBB) que seguem suas diretrizes e estratégias."  
+**Tipo:** Entidade
+
+"Órgãos Filiais são órgãos ou unidades secundárias sob a mesma razão social subordinadas à matriz (CNBB) que seguem suas diretrizes e estratégias."
+
 ---
 <a id="paróquias"></a>
 ### Paróquias  
-**Tipo:** Entidade  
+**Tipo:** Entidade
+
 "A paróquia é uma certa comunidade de fiéis, constituída estavelmente na Igreja particular, cuja cura pastoral, sob a autoridade do Bispo diocesano, está confiada ao pároco, como a seu pastor próprio."  
 Pode ser entregue a um IVC ou um SVA perpetuamente ou por contrato com tempo determinado. (CDC Cân. 515 — § 1.)  
 O responsável é um Pároco, na vacância, um Administrador Paroquial.  
 Após 1 ano vacante, deve-se nomear pároco. (Cân. 520)  
-Só pode ter 1 pároco (Cân. 526)  
-**Fonte:** CDC  
+Só pode ter 1 pároco (Cân. 526)
+
+**Fonte:** CDC
+
 ---
 
 <a id="pároco"></a>
 ### Pároco  
-**Tipo:** Pessoa  
+**Tipo:** Pessoa
+
 "O pároco é o pastor próprio da paróquia que lhe foi confiada, e presta a cura pastoral à comunidade que lhe foi entregue, sob a autoridade do Bispo diocesano, do qual foi chamado a partilhar o ministério de Cristo, para que, em favor da mesma comunidade, desempenhe o múnus de ensinar, santificar e governar, com a cooperação ainda de outros presbíteros ou diáconos e com a ajuda de fiéis leigos, nos termos do direito."  
-Pode assumir mais de uma paróquia, se faltar sacerdotes ou por outras circunstâncias  
-**Fonte:** CDC Cân. 519, Cân. 526  
+Pode assumir mais de uma paróquia, se faltar sacerdotes ou por outras circunstâncias 
+
+**Fonte:** CDC Cân. 519, Cân. 526 
+
 ---
 
 <a id="prelatura-territorial"></a>
 ### Prelatura Territorial  
-**Tipo:** Tipos de Circunscrição Eclesiástica  
+**Tipo:** Tipos de Circunscrição Eclesiástica 
+
 "A prelatura territorial ou a abadia territorial é uma porção do povo de Deus, circunscrita territorialmente, cujo cuidado pastoral, em virtude de circunstâncias especiais, é cometido a um Prelado ou Abade, que a governa como seu pastor próprio, à maneira de Bispo diocesano."  
+
 **Fonte:** CDC Cân. 370  
+
 ---
 
 <a id="pastorais"></a>
 ### Pastorais  
 **Tipo:** Instância  
+
 "Ação pastoral da Igreja no Brasil ou simplesmente pastoral é a ação da Igreja Católica no mundo ou o conjunto de atividades pelas quais a Igreja realiza a sua missão de continuar a ação de Jesus Cristo junto a diferentes grupos e realidades."  
+
 ---
 <a id="pastor-bonus"></a>
 ### Pastor Bonus  
 **Tipo:** Documento  
-"Bom Pastor, Constituição Apostólica sobre a Reforma da Cúria Romana."  
-**Fonte:** Anuário Católico do Brasil 2015  
+
+"Bom Pastor, Constituição Apostólica sobre a Reforma da Cúria Romana."
+
+**Fonte:** Anuário Católico do Brasil 2015 
+
 ---
 
 <a id="província-eclesiástica"></a>
 ### Província Eclesiástica  
-**Tipo:** Circunscrição  
-É a reunião da Arquidiocese (Sede Metropolitana) com as Dioceses Sufragâneas.  
-**Fonte:** Anuário Católico do Brasil 2015  
+**Tipo:** Circunscrição 
+
+É a reunião da Arquidiocese (Sede Metropolitana) com as Dioceses Sufragâneas.
+
+**Fonte:** Anuário Católico do Brasil 2015 
+
 ---
 
 <a id="propedêutico"></a>
 ### Propedêutico  
 **Tipo:** Etapa de Formação  
-É o ano que antecede a entrada em um seminário, onde se estudam matérias introdutórias e se prepara para a vida em comunidade.  
-**Fonte:** Anuário Católico do Brasil 2015  
+
+É o ano que antecede a entrada em um seminário, onde se estudam matérias introdutórias e se prepara para a vida em comunidade. 
+
+**Fonte:** Anuário Católico do Brasil 2015 
+
 ---
 
 <a id="protopresbítero"></a>
 ### Protopresbítero  
 **Tipo:** Cargo/Ofício  
-É o cardeal presbítero de nomeação mais antiga no Colégio Cardinalício.  
-Na diocese pode ser sinônimo de Vigário Forâneo, Coordenador de Setor, Arcipreste, etc.  
-**Fonte:** Anuário Católico do Brasil 2015  
+
+É o cardeal presbítero de nomeação mais antiga no Colégio Cardinalício.
+
+Na diocese pode ser sinônimo de Vigário Forâneo, Coordenador de Setor, Arcipreste, etc.
+
+**Fonte:** Anuário Católico do Brasil 2015
+
 ---
 
 <a id="primaz"></a>
 ### Primaz  
-**Tipo:** Título Honorífico  
+**Tipo:** Título Honorífico
+
 É o Título dado ao Bispo que está à testa da Sede Episcopal mais antiga de uma nação, de um continente, etc.  
-No Brasil, é o Arcebispo de Salvador.  
-**Fonte:** Anuário Católico do Brasil 2015  
+No Brasil, é o Arcebispo de Salvador. 
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+<a id="prefeitura-apostólica"></a>
+### Prefeitura Apostólica  
+**Tipo:** Circunscrição
+
+O mesmo que Vicariato Apostólico.  
+O vicariato apostólico ou a prefeitura apostólica é uma porção do povo de Deus que, em virtude de circunstâncias peculiares, não foi ainda constituída em diocese, e que para ser apascentada se confia a um Vigário apostólico ou Prefeito apostólico, que a governa em nome do Sumo Pontífice.
+
+---
+
+<a id="províncias-eclesiásticas"></a>
+### Províncias Eclesiásticas 
+
+**Tipo:** Entidade  
+
+Província Eclesiástica (ou Circunscrição Eclesiástica Territorial) é o agrupamento das Igrejas Particulares mais próximas, delimitadas por um território, a fim de promover uma ação pastoral comum entre as dioceses e, com isso, favorecer as relações mútuas entre os Bispos diocesanos.  
+Válido lembrar que todas as Igrejas Particulares estão dentro de uma província.  
+“A província eclesiástica tem personalidade jurídica pelo próprio direito.” 
+
+**Fonte:** Comentário do CDC cân. 431, 1º e Cân. 433 
+
+---
+
+<a id="prelado"></a>
+### Prelado  
+**Tipo:** Cargo/Ofício 
+
+São aqueles que recebem o presbiterato ou o episcopado e recebem um título honorífico (prelados de honra = monsenhores); os Bispos que são indicados para uma prelazia ou mesmo pode até ser sinônimo de clérigo.
+
+**Fonte:** Anuário Católico do Brasil 2015 
+
+---
+
+<a id="pastoral-afro-brasileira"></a>
+### Pastoral Afro-Brasileira 
+
+**Tipo:** Pastoral 
+
+---
+
+<a id="pastoral-aids"></a>
+### Pastoral Aids
+
+**Tipo:** Pastoral 
+
+---
+
+<a id="pastoral-brasileiros-no-exterior--pbe"></a>
+### Pastoral Brasileiros no Exterior – PBE 
+
+**Tipo:** Pastoral 
+
+---
+
+<a id="pastoral-carcerária"></a>
+### Pastoral Carcerária  
+
+**Tipo:** Pastoral
+
+---
+
+<a id="pastoral-comunicação-pascom"></a>
+### Pastoral Comunicação (PASCOM)  
+
+**Tipo:** Pastoral  
+
 ---
