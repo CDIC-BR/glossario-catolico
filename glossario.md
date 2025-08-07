@@ -26,6 +26,19 @@
 - [Cânones](#canoes)
 - [Capelas Particulares](#capelas-particulares)
 - [Cônego](#conego)
+- [Câmaras Eclesiásticas](#camaras-eclesiasticas)
+- [Capelas](#capelas)
+- [CÁRITAS BRASILEIRA](#caritas-brasileira)
+- [Casa Dom Luciano](#casa-dom-luciano)
+- [Catedral](#catedral)
+- [CBJP (Comissão Brasileira Justiça e Paz)](#cbjp-comissao-brasileira-justica-e-paz)
+- [CCM](#ccm)
+- [CEFEP (Centro Nacional de Fé e Política Dom Helder Camara)](#cefep-centro-nacional-de-fe-e-politica-dom-helder-camara)
+- [CIMI (Conselho Indigenista Missionário)](#cimi-conselho-indigenista-missionario)
+- [CND (Comissão Nacional dos Diáconos)](#cnd-comissao-nacional-dos-diaconos)
+- [CNISB (Conferência Nacional dos Institutos Seculares do Brasil)](#cnisb-conferencia-nacional-dos-institutos-seculares-do-brasil)
+- [CNLB (Conselho Nacional do Laicato do Brasil)](#cnlb-conselho-nacional-do-laicato-do-brasil)
+
 
 ---
 
@@ -257,6 +270,90 @@ Tipo: —
 "Título dado aos presbíteros diocesanos membros do Cabido da catedral ou de uma Igreja Colegial. Existem também os Cônegos Regulares, que são religiosos membros de uma Ordem Religiosa. Tal título pode ser dado também ao penitenciário da Diocese."
 
 Fonte: Anuário Católico do Brasil 2015
+
+<a id="camaras-eclesiasticas"></a>
+
+Câmaras Eclesiásticas
+Tipo: Entidade
+
+Sem descrição disponível.
+
+<a id="capelas"></a>
+
+Capelas
+Tipo: Entidade
+
+Sem descrição disponível.
+
+<a id="caritas-brasileira"></a>
+
+CÁRITAS BRASILEIRA
+Tipo: Entidade
+
+Sem descrição disponível.
+
+<a id="casa-dom-luciano"></a>
+
+Casa Dom Luciano
+Tipo: Órgão Filial CNBB
+
+Sem descrição disponível.
+
+<a id="catedral"></a>
+
+Catedral
+Tipo: Entidade
+
+Sem descrição disponível.
+
+<a id="cbjp-comissao-brasileira-justica-e-paz"></a>
+
+CBJP (Comissão Brasileira Justiça e Paz)
+Tipo: Comissão
+
+Sem descrição disponível.
+
+<a id="ccm"></a>
+
+CCM
+Tipo: Órgão Filial CNBB
+
+Sem descrição disponível.
+
+<a id="cefep-centro-nacional-de-fe-e-politica-dom-helder-camara"></a>
+
+CEFEP (Centro Nacional de Fé e Política Dom Helder Camara)
+Tipo: Entidade
+
+Sem descrição disponível.
+
+<a id="cimi-conselho-indigenista-missionario"></a>
+
+CIMI (Conselho Indigenista Missionário)
+Tipo: Organismo
+
+Sem descrição disponível.
+
+<a id="cnd-comissao-nacional-dos-diaconos"></a>
+
+CND (Comissão Nacional dos Diáconos)
+Tipo: Entidade
+
+Sem descrição disponível.
+
+<a id="cnisb-conferencia-nacional-dos-institutos-seculares-do-brasil"></a>
+
+CNISB (Conferência Nacional dos Institutos Seculares do Brasil)
+Tipo: Entidade
+
+Sem descrição disponível.
+
+<a id="cnlb-conselho-nacional-do-laicato-do-brasil"></a>
+
+CNLB (Conselho Nacional do Laicato do Brasil)
+Tipo: Entidade
+
+Sem descrição disponível.
 
 
 
