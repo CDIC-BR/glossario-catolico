@@ -86,6 +86,16 @@
 - [Diácono Transitório](#diácono-transitório)
 - [Diocesano](#diocesano)
 - [Direito Litúrgico](#direito-litúrgico)
+- [Elenco Geral](#elenco-geral)
+- [Ex-Officio](#ex-officio)
+- [Esmoler](#esmoler)
+- [Ecônomo](#ecônomo)
+- [Eparquia](#eparquia)
+- [Edições CNBB](#edições-cnbb)
+- [Elenco de clérigos e leigos](#elenco-de-clérigos-e-leigos)
+- [Elenco de leigos seculares](#elenco-de-leigos-seculares)
+- [Eremitas](#eremitas)
+
 
 
 
@@ -856,5 +866,96 @@ Sem descrição disponível.
 
 ### Direito Litúrgico  
 **Tipo:** Jurídico  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="elenco-geral"></a>
+
+### Elenco Geral  
+**Tipo:** Estrutura  
+
+“Agrupamento geral de fiéis. Terminologia utilizada no Código de Direito Canônico e aplicado Anuário Católico do Brasil 2012 e 2015.”
+
+**Fonte:** CDC e Anuário Católico do Brasil 2012 e 2015
+
+---
+
+<a id="ex-officio"></a>
+
+### Ex-Officio  
+**Tipo:** —  
+
+“Do próprio ofício.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="esmoler"></a>
+
+### Esmoler  
+**Tipo:** —  
+
+“É o Arcebispo que distribui as bênçãos e outras dádivas do Santo Padre.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="ecônomo"></a>
+
+### Ecônomo  
+**Tipo:** Pessoa  
+
+“É o encarregado da administração do patrimônio de uma diocese ou de um IVC (Instituto de Vida Consagrada) ou SVA (Sociedade de Vida Apostólica).”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="eparquia"></a>
+
+### Eparquia  
+**Tipo:** Tipos de Circunscrição Eclesiástica  
+
+“É uma porção do povo de Deus confiada ao pastoreio do Bispo Eparquial com a cooperação do presbitério, de modo tal que, unindo-se ela a seu pastor e, pelo Evangelho e pela Eucaristia, reunida por ele no Espírito Santo, constitua uma Igreja particular, na qual está verdadeiramente presente e operante a Igreja de Cristo una, santa, católica e apostólica.”
+
+**Fonte:** Anuário Católico do Brasil 2015
+
+---
+
+<a id="edições-cnbb"></a>
+
+### Edições CNBB  
+**Tipo:** Órgão Filial CNBB  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="elenco-de-clérigos-e-leigos"></a>
+
+### Elenco de clérigos e leigos  
+**Tipo:** Pessoa  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="elenco-de-leigos-seculares"></a>
+
+### Elenco de leigos seculares  
+**Tipo:** Pessoa  
+
+*Definição não disponível na fonte fornecida.*
+
+---
+
+<a id="eremitas"></a>
+
+### Eremitas  
+**Tipo:** Entidade  
 
 *Definição não disponível na fonte fornecida.*
