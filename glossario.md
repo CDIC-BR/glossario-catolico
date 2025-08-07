@@ -115,6 +115,12 @@
 - [Monsenhor](#monsenhor)
 - [MEB (Movimento de Educação de Base)](#meb-movimento-de-educação-de-base)
 - [Núncio](#núncio)
+- [Ordem das Virgens](#ordem-das-virgens)
+- [Organismos](#organismos)
+- [Ordinariado Militar](#ordinariado-militar)
+- [OSIB](#osib-organização-dos-seminários-e-institutos-filosófico-teológicos-do-brasil)
+- [Outros Conselhos](#outros-conselhos)
+- [Órgãos Filiais](#órgãos-filiais)
 
 
 
@@ -1165,4 +1171,39 @@ Constituição Apostólica *Provida Mater Ecclesia* – art. I – *Lex peculiar
 **Tipo:** —  
 "É o Legado Pontifício que representa o Romano Pontífice junto a um ou mais Estado e também junto aos Bispos de uma ou mais Nações."  
 **Fonte:** Anuário Católico do Brasil 2015  
+---
+<a id="ordem-das-virgens"></a>
+### Ordem das Virgens  
+**Tipo:** Entidade  
+"Consagram-se na Ordem das Virgens mulheres que fizeram um propósito público de virgindade diante do Bispo diocesano e todo o povo. Permanecem ligadas e à serviço da Diocese, à pessoa do Bispo. Essa relação não gera responsabilidade financeira para à Igreja Particular."  
+---
+
+<a id="organismos"></a>
+### Organismos  
+**Tipo:** Entidade  
+"Organizações católicas que representam, em âmbito nacional, as diversas categorias do povo de Deus."  
+---
+
+<a id="ordinariado-militar"></a>
+### Ordinariado Militar  
+**Tipo:** Tipos de Circunscrição Eclesiástica  
+*Definição não disponível na fonte fornecida.*  
+---
+
+<a id="osib-organização-dos-seminários-e-institutos-filosófico-teológicos-do-brasil"></a>
+### OSIB (Organização dos Seminários e Institutos Filosófico-Teológicos do Brasil)  
+**Tipo:** Entidade  
+*Definição não disponível na fonte fornecida.*  
+---
+
+<a id="outros-conselhos"></a>
+### Outros Conselhos  
+**Tipo:** Entidade  
+*Definição não disponível na fonte fornecida.*  
+---
+
+<a id="órgãos-filiais"></a>
+### Órgãos Filiais  
+**Tipo:** Entidade  
+"Órgãos Filiais são órgãos ou unidades secundárias sob a mesma razão social subordinadas à matriz (CNBB) que seguem suas diretrizes e estratégias."  
 ---
