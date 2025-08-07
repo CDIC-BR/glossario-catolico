@@ -59,6 +59,14 @@
 - [Comissão Especial para a Causa dos Santos](#comissao-especial-para-a-causa-dos-santos)
 - [Comissão Especial para a Comunhão e Partilha](#comissao-especial-para-a-comunhao-e-partilha)
 - [Comissão Especial para a Ecologia Integral e Mineração (CEEM)](#comissao-especial-para-a-ecologia-integral-e-mineracao-ceem)
+- [Comissão Especial para o Acordo Brasil – Santa Sé](#comissao-especial-para-o-acordo-brasil--santa-se)
+- [Comissão Especial para o Enfrentamento ao Tráfico Humano](#comissao-especial-para-o-enfrentamento-ao-trafico-humano)
+- [Comissão Especial para os Bispos Eméritos](#comissao-especial-para-os-bispos-emeritos)
+- [Comissão Especial para tutela de Menores e Adultos Vulneráveis](#comissao-especial-para-tutela-de-menores-e-adultos-vulneraveis)
+- [Comissão para os Tribunais Eclesiásticos de 2º Instância – CETESI](#comissao-para-os-tribunais-eclesiasticos-de-2-instancia--citesi)
+- [Concatedral](#concatedral)
+- [Conselho Diretor do Movimento de Educação de Base (MEB)](#conselho-diretor-do-movimento-de-educacao-de-base-meb)
+
 
 
 ---
@@ -582,6 +590,68 @@ Sem descrição disponível.
 
 ### Comissão Especial para a Ecologia Integral e Mineração (CEEM)  
 **Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+<a id="comissao-especial-para-o-acordo-brasil--santa-se"></a>
+
+### Comissão Especial para o Acordo Brasil – Santa Sé  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-para-o-enfrentamento-ao-trafico-humano"></a>
+
+### Comissão Especial para o Enfrentamento ao Tráfico Humano  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-para-os-bispos-emeritos"></a>
+
+### Comissão Especial para os Bispos Eméritos  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-especial-para-tutela-de-menores-e-adultos-vulneraveis"></a>
+
+### Comissão Especial para tutela de Menores e Adultos Vulneráveis  
+**Tipo:** Comissão Especial  
+
+Sem descrição disponível.
+
+---
+
+<a id="comissao-para-os-tribunais-eclesiasticos-de-2-instancia--citesi"></a>
+
+### Comissão para os Tribunais Eclesiásticos de 2º Instância – CETESI  
+**Tipo:** Comissão Episcopal  
+
+Sem descrição disponível.
+
+---
+
+<a id="concatedral"></a>
+
+### Concatedral  
+**Tipo:** Tipo de Paróquia  
+
+Sem descrição disponível.
+
+---
+
+<a id="conselho-diretor-do-movimento-de-educacao-de-base-meb"></a>
+
+### Conselho Diretor do Movimento de Educação de Base (MEB)  
+**Tipo:** Entidade  
 
 Sem descrição disponível.
 
